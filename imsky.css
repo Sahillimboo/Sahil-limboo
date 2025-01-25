@@ -1,0 +1,119 @@
+.container{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-inline: auto;
+    margin-top: 100px;
+   gap: 10%;
+    text-align: center;
+  }
+  
+
+.fonder{
+  text-align: center;
+  
+  font-size: 30px;
+}
+
+
+
+a{
+text-decoration: none;
+ }
+
+.meta{
+  display: flex;
+
+text-align: start;
+
+
+flex-direction: column;
+text-decoration: none;
+font-size: 20px;  
+}
+
+
+
+
+.icon{
+position: absolute;
+top: 0;
+left: 0;
+padding: 10px;
+}
+.vertical{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+.nnav{
+    text-decoration: none;
+    font-size: 16px;
+    margin: 5px;
+}
+.font{
+    text-align: center;
+}
+.notes{
+text-align: center;
+text-decoration: none;
+font-size: 30px;
+flex-direction: row;
+}
+ 
+.in-div{
+  display: flex;
+  gap:10px;
+  text-align: left;
+}
+
+p{
+  margin:0;
+}
+
+.inner{
+  align-self: center;
+}
+
+
+.veef{
+  display: flex;
+  gap: 10px
+}
+
+.call{
+  align-self: center;
+}
+
+.red{
+display: flex;
+gap: 10px;
+
+}
+
+.older{
+  align-self: center;
+}
+
+.review{
+  display: flex;
+  gap: 10px;
+}
+
+.pull{
+  align-self: center;
+}
+
+.timer{
+  display: flex;
+  gap: 10px;
+}
+
+.clock{
+  align-self: center;
+}
+.styled-text{
+    margin: 20px;
+}
