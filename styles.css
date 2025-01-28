@@ -1,0 +1,121 @@
+.first-div{
+    display: flex;
+    gap: 3%;
+    padding: 5px;
+    height: 100px;
+    border:2px solid black;
+    justify-content:flex-start;
+
+}
+.first-div-red{
+    border:1px solid green;
+    background-color:red;
+    height:70px;
+    width:70px;
+}
+
+.first-div-green{
+    border:1px solid green;
+    background-color: green;
+    height: 70px;
+    width:70px;
+}
+
+.first-div-blue{
+    border:1px solid green;
+    background-color:rgb(41, 4, 254);
+    height:70px;
+    width:70px;
+}
+
+.second-div{
+    display: flex;
+    gap: 3%;
+    padding: 5px;
+    height:100px;
+    border:2px solid black;
+    justify-content:center;
+}
+
+
+.second-div-red{
+    border:1px solid rgb(14, 14, 14);
+    background-color:red;
+    height:70px;
+    width:70px;
+}
+
+.second-div-green{
+    border:1px solid rgba(9, 9, 9, 0.973);
+    background-color:green;
+    height:70px;
+    width:70px;
+}
+
+.second-div-blue{
+    border:1px solid rgba(9, 9, 9, 0.973);
+    background-color:rgba(57, 5, 247, 0.982);
+    height:70px;
+    width:70px;
+}
+
+.third-div{
+    display: flex;
+    gap: 3%;
+    padding: 5px;
+    height: 100px;
+    border:2px solid black;
+    justify-content:flex-end;
+}
+
+.third-div-red{
+    border:1px solid rgb(14, 14, 14);
+    background-color:red;
+    height:70px;
+    width:70px;
+}
+
+.third-div-green{
+    border:1px solid rgba(9, 9, 9, 0.973);
+    background-color:green;
+    height:70px;
+    width:70px;
+}
+
+.third-div-blue{
+    border:1px solid rgba(9, 9, 9, 0.973);
+    background-color:rgba(57, 5, 247, 0.982);
+    height: 70px;
+    width:70px;
+}
+
+.fourth-div{
+    display: flex;
+    gap: 5%;
+    padding: 5px;
+    height: 100px;
+    border:2px solid black;
+    justify-content:space-between;
+}
+
+.fourth-div-red{
+    border:1px solid rgb(14, 14, 14);
+    background-color:red;
+    height:70px;
+    width: 70px;
+}
+
+.fourth-div-green{
+    border:1px solid rgba(9, 9, 9, 0.973);
+    background-color:green;
+    height:70px;
+    width:70px;
+}
+
+.fourth-div-blue{
+    border:1px solid rgba(9, 9, 9, 0.973);
+    background-color:rgba(57, 5, 247, 0.982);
+    height:70px;
+    width:70px;
+}
+
